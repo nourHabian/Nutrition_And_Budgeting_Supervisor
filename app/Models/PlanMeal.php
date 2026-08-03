@@ -20,7 +20,6 @@ class PlanMeal extends Model
         return $this->belongsTo(Plan::class);
     }
 
-
     public function meal()
     {
         return $this->belongsTo(Meal::class);

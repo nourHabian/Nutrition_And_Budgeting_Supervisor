@@ -19,5 +19,7 @@ Route::middleware('auth:sanctum')->group(function() {
     Route::put('/family/profile',[FamilySetupController::class,'update']);
     Route::post('/plans/generate', [PlanController::class, 'generate']);
     Route::post('/plans/accept', [PlanController::class, 'accept']);
+    Route::get('/plans', [PlanController::class, 'index']);
+    Route::get('/plans/{plan}', [PlanController::class, 'show']);
 
 });

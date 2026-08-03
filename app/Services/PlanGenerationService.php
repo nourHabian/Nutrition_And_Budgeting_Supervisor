@@ -15,16 +15,19 @@ class PlanGenerationService
     public function generate(User $user, array $data)
     {
         $input = $this->buildInputJson($user, $data);
-        $this->cppPlanner->generate($input);
+                $outputPath = $this->cppPlanner->generate($input);
+
+        if ($outputPath === null) {
+            return null;
+        }
+
         $response = app(PlanResponseService::class)->build(
-            base_path('cpp/output.json'),
+            $outputPath,
             $data['days_per_meal'],
             $data['excluded_meals'] ?? []
         );
 
-        if ($response === null) {
-            return null;
-        }
+        @unlink($outputPath);
 
         return $response;
     }

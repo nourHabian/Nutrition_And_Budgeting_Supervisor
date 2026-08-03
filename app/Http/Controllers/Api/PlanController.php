@@ -5,8 +5,10 @@ namespace App\Http\Controllers\Api;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\GeneratePlanRequest;
 use App\Http\Requests\PlanAcceptRequest;
+use App\Models\Plan;
 use App\Services\PlanAcceptService;
 use App\Services\PlanGenerationService;
+use App\Services\PlanHistoryService;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
@@ -20,7 +22,7 @@ class PlanController extends Controller
             $user,
             $request->validated()
         );
-        
+
         if ($result === null) {
             return response()->json([
                 'message' => 'لم يتم العثور على خطة مناسبة بالميزانية والمعطيات المدخلة، جرّب زيادة الميزانية أو تعديل المكونات أو التفضيلات.'
@@ -56,5 +58,19 @@ class PlanController extends Controller
                 ];
             }),
         ]);
+    }
+
+    public function index(Request $request, PlanHistoryService $service)
+    {
+        return response()->json(
+            $service->index($request->user())
+        );
+    }
+
+    public function show(Plan $plan, Request $request, PlanHistoryService $service)
+    {
+        return response()->json(
+            $service->show($request->user(), $plan)
+        );
     }
 }
