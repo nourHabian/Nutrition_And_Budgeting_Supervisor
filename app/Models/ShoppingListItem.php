@@ -17,16 +17,12 @@ class ShoppingListItem extends Model
 
     public function plan()
     {
-        return $this->belongsTo(
-            Plan::class
-        );
+        return $this->belongsTo(Plan::class);
     }
 
     public function ingredient()
     {
-        return $this->belongsTo(
-            Ingredient::class
-        );
+        return $this->belongsTo(Ingredient::class);
     }
 
 }

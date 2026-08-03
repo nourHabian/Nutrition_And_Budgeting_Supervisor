@@ -1,0 +1,5576 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "شاكرية",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "لحم مقطع",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "شرحات دجاج"
+            },
+            {
+                "name": "لبن",
+                "quantity": 1500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "نشاء الذرة",
+                "quantity": 24,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بيض",
+                "quantity": 1,
+                "unit": "حبة",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "برغل"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "ملوخية",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "ملوخية",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "لحم مقطع"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ليمون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "فريكة",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "متوسط",
+        "seasonality": "الربيع",
+        "ingredients": [
+            {
+                "name": "فريكة",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "لحم مقطع"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بزاليا",
+                "quantity": 75,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "كبسة",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "رز طويل الحبة",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "دجاج",
+                "quantity": 1200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "لحم مقطع"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة خضرا",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "جزر",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "مندي",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "رز طويل الحبة",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "دجاج",
+                "quantity": 1200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "لحم مقطع"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "دجاج مكسيكي",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة ملونة",
+                "quantity": 450,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 8,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "جبنة قشقوان",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 7,
+        "recipe_name": "بامية",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "بامية",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "لحم مقطع"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 30,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 25,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 8,
+        "recipe_name": "فاصوليا بمرقة",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "فاصوليا خضرا",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "لحم مقطع"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 30,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 9,
+        "recipe_name": "فاصوليا بزيت",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "فاصوليا خضرا",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت زيتون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 25,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 15,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 10,
+        "recipe_name": "فول أخضر بالزيت (مقلى)",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الربيع",
+        "ingredients": [
+            {
+                "name": "فول أخضر",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت زيتون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 11,
+        "recipe_name": "رز بفول",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الربيع",
+        "ingredients": [
+            {
+                "name": "فول أخضر",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 12,
+        "recipe_name": "رز ببزاليا",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الربيع",
+        "ingredients": [
+            {
+                "name": "بزاليا",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 13,
+        "recipe_name": "فاصوليا كلاوي",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الخريف",
+        "ingredients": [
+            {
+                "name": "فاصوليا كلاوي",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "لحم مقطع"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 30,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 14,
+        "recipe_name": "مفركة بطاطا",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "بطاطا",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ليمون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 15,
+        "recipe_name": "مفركة فول",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الربيع",
+        "ingredients": [
+            {
+                "name": "فول أخضر",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 16,
+        "recipe_name": "مفركة كوسا",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "كوسا",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 17,
+        "recipe_name": "محاشي",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "كوسا",
+                "quantity": 2000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 30,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 8,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 18,
+        "recipe_name": "يبرق",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "ورق عنب",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 80,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مقطع",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 19,
+        "recipe_name": "يخنه ملفوف",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "الشتاء",
+        "ingredients": [
+            {
+                "name": "ملفوف",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 45,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 20,
+        "recipe_name": "بزاليا وجزر",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الربيع",
+        "ingredients": [
+            {
+                "name": "بزاليا",
+                "quantity": 350,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "جزر",
+                "quantity": 350,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "لحم مقطع"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 30,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 21,
+        "recipe_name": "كباب هندي",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "لحم ناعم",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة خضرا",
+                "quantity": 450,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 22,
+        "recipe_name": "كوسا بلبن",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "كوسا",
+                "quantity": 1500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لبن",
+                "quantity": 2000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "نشاء الذرة",
+                "quantity": 32,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 23,
+        "recipe_name": "كبة لبنية",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "برغل ناعم",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لبن",
+                "quantity": 1500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 60,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 24,
+        "recipe_name": "شيش برك",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "طحين",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 700,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "لبن",
+                "quantity": 2000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 25,
+        "recipe_name": "بطاطا بالفرن",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "بطاطا",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 26,
+        "recipe_name": "سكالوب",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "طحين",
+                "quantity": 125,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بيض",
+                "quantity": 2,
+                "unit": "حبة",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كعك ناعم",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "خبز سمون",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 27,
+        "recipe_name": "طباخ روحو",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "بندورة",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كوسا",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بيتنجان",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 8,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "برغل",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 28,
+        "recipe_name": "مطجن",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "سودة غنم",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت زيتون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 12,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ليمون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 29,
+        "recipe_name": "برغل ببندورة",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "برغل",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة خضرا",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 15,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 30,
+        "recipe_name": "تسقية بالبدوة",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "حمص",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "خبز",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 8,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لبن",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "مسبحة",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "سمنة",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 12,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 31,
+        "recipe_name": "شوربة خضار",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "متوسط",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "جزر",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بطاطا",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ليمون",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "حمض الليمون"
+            }
+        ]
+    },
+    {
+        "recipe_id": 32,
+        "recipe_name": "شرحات على عجين",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "طحين",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "عجينة"
+            },
+            {
+                "name": "شرحات لحم",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 33,
+        "recipe_name": "يالنجي",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "ورق عنب",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بقدونس",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "نعنع",
+                "quantity": 25,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت زيتون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "دبس رمان",
+                "quantity": 60,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 34,
+        "recipe_name": "فلافل",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "حمص",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بقدونس",
+                "quantity": 25,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 15,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "كربونة",
+                "quantity": 4,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 35,
+        "recipe_name": "سندويش بطاطا",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "بطاطا",
+                "quantity": 800,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "خبز سمون",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "مايونيز",
+                "quantity": 80,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "مخلل خيار",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 8,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 36,
+        "recipe_name": "معكرونة بجبنة وبقدونس",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "معكرونة",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "جبنة",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بقدونس",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 37,
+        "recipe_name": "بطاطا محشية",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "بطاطا",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 45,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 12,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 38,
+        "recipe_name": "منزلة بيتنجان",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "متوسط",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "بيتنجان",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 450,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "برغل"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 39,
+        "recipe_name": "زهرة بطحينة",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الشتاء",
+        "ingredients": [
+            {
+                "name": "زهرة",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "طحينة",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ليمون",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 40,
+        "recipe_name": "المقالي",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "بطاطا",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بيتنجان",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كوسا",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 41,
+        "recipe_name": "رز بالخضار",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "رز",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة خضرا",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "جزر",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "فطر",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بزاليا",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 42,
+        "recipe_name": "معكرونة بالخضار",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "معكرونة",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة خضرا",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 43,
+        "recipe_name": "أبو شلهوب (برغل بكوسا)",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "برغل",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كوسا",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 44,
+        "recipe_name": "جوانح مقلية",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "جوانح",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "طحين",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "نشاء الذرة",
+                "quantity": 24,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 24,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 45,
+        "recipe_name": "سودة دجاج",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "سودة دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "دبس رمان",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 46,
+        "recipe_name": "سودة غنم",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "سودة غنم",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 47,
+        "recipe_name": "جوانح بالفرن",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "جوانح",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 24,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ليمون",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "دبس رمان",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 12,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 48,
+        "recipe_name": "ويكي (بامية بزيت)",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "بامية",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت زيتون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 49,
+        "recipe_name": "سبانخ زيت",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الشتاء",
+        "ingredients": [
+            {
+                "name": "سبانخ",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت زيتون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 50,
+        "recipe_name": "خبيزة",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الشتاء",
+        "ingredients": [
+            {
+                "name": "خبيزة",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 51,
+        "recipe_name": "كبة بالصينية",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "برغل ناعم",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 450,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "دجاج"
+            },
+            {
+                "name": "دبس رمان",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 52,
+        "recipe_name": "كباب مشوي",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "لحم ناعم",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "دجاج"
+            },
+            {
+                "name": "بقدونس",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 53,
+        "recipe_name": "صفيحة",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "محترف",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "لحم ناعم",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "طحين",
+                "quantity": 375,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "عجينة"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة خضرا",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 54,
+        "recipe_name": "شرحات مطفاية",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات لحم",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "شرحات دجاج"
+            },
+            {
+                "name": "ليمون",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 450,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بقدونس",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 55,
+        "recipe_name": "أوزي",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "الربيع",
+        "ingredients": [
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بزاليا",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "رقائق عجين",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 56,
+        "recipe_name": "مجدرة",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "برغل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "رز"
+            },
+            {
+                "name": "عدس أسود",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 900,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت زيتون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 57,
+        "recipe_name": "فروج مسحب",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "جزر",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بطاطا",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة خضرا",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 24,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت زيتون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لبن",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 58,
+        "recipe_name": "دجاج بالفرن",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بطاطا",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 59,
+        "recipe_name": "لحمة بالصينية",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "لحم ناعم",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "دجاج"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 60,
+        "recipe_name": "باطرش",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "لحم ناعم",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بيتنجان",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 45,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لبن غنم",
+                "quantity": 45,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 10,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 61,
+        "recipe_name": "سلق ملفوف",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "متوسط",
+        "seasonality": "الشتاء",
+        "ingredients": [
+            {
+                "name": "سلق",
+                "quantity": 1500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 45,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 62,
+        "recipe_name": "دجاج بمرقة",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "جزر",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بطاطا",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 63,
+        "recipe_name": "لوبية",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "متوسط",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "لوبية",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم ناعم",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 64,
+        "recipe_name": "محشي لفت",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "متوسط",
+        "seasonality": "الخريف",
+        "ingredients": [
+            {
+                "name": "لفت",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 30,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 65,
+        "recipe_name": "سبانخ بلحمة",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "متوسط",
+        "seasonality": "الشتاء",
+        "ingredients": [
+            {
+                "name": "سبانخ",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "لحم مفروم"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 8,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 66,
+        "recipe_name": "برغل بفول",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الربيع",
+        "ingredients": [
+            {
+                "name": "برغل",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "فول أخضر",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 67,
+        "recipe_name": "جظ مظ",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "بيض",
+                "quantity": 6,
+                "unit": "حبة",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 10,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة ملونة",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 68,
+        "recipe_name": "برغل ببزاليا",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الربيع",
+        "ingredients": [
+            {
+                "name": "برغل",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بزاليا",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 69,
+        "recipe_name": "يقطين بلبن",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "يقطين",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لبن",
+                "quantity": 1500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "نشاء الذرة",
+                "quantity": 24,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 450,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 70,
+        "recipe_name": "كبة مقلية",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "برغل ناعم",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم ناعم",
+                "quantity": 1350,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "بطاطا"
+            },
+            {
+                "name": "بصل",
+                "quantity": 900,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 71,
+        "recipe_name": "عجة",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "بيض",
+                "quantity": 4,
+                "unit": "حبة",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "طحين",
+                "quantity": 125,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بطاطا",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بقدونس",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كوسا",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 72,
+        "recipe_name": "ستي زبقي",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "عدس أسود",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معكرونة",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 73,
+        "recipe_name": "دجاج مشوي",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 24,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ليمون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 15,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون فليفلة",
+                "quantity": 15,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 74,
+        "recipe_name": "كبة مشوية",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "برغل ناعم",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم ناعم",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "بطاطا"
+            },
+            {
+                "name": "شحمة",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "دهنة",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون فليفلة",
+                "quantity": 15,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "دبس رمان",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رمان",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 8,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 75,
+        "recipe_name": "بروستد",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ليمون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "برتقال",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 32,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "طحين",
+                "quantity": 125,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بيض",
+                "quantity": 1,
+                "unit": "حبة",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "فانيليا",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 76,
+        "recipe_name": "شوربة عدس",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "عدس أحمر",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 450,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "جزر",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بطاطا",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 77,
+        "recipe_name": "كريسبي",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 32,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "طحين",
+                "quantity": 125,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بيض",
+                "quantity": 1,
+                "unit": "حبة",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ليمون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 78,
+        "recipe_name": "فرانشيسكو",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "جبنة قشقوان",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "فطر",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ذرة",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "مايونيز",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 24,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "خس",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 79,
+        "recipe_name": "زنجر",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 32,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "صلصة حارة",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "طحين",
+                "quantity": 125,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "خس",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 80,
+        "recipe_name": "منزلة زهرة",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "الشتاء",
+        "ingredients": [
+            {
+                "name": "زهرة",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 81,
+        "recipe_name": "براصيا",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الشتاء",
+        "ingredients": [
+            {
+                "name": "براصيا",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت زيتون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 82,
+        "recipe_name": "شلباطو",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الشتاء",
+        "ingredients": [
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كروم",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 83,
+        "recipe_name": "خلطبيطة",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "بيتنجان",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كوسا",
+                "quantity": 450,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بطاطا",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 450,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة خضرا",
+                "quantity": 450,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة يابسة",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت زيتون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 84,
+        "recipe_name": "ابوبسطي",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "يقطين",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 30,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "دبس رمان",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "برغل",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 85,
+        "recipe_name": "فتة دجاج",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لبن",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "طحينة",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ليمون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "خبز",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 86,
+        "recipe_name": "الكمأة",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "الربيع",
+        "ingredients": [
+            {
+                "name": "كمأة",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 87,
+        "recipe_name": "فطاير سبانخ",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "محترف",
+        "seasonality": "الشتاء",
+        "ingredients": [
+            {
+                "name": "سبانخ",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "دبس رمان",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "ليمون"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 8,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "طحين",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "عجينة"
+            },
+            {
+                "name": "بيض",
+                "quantity": 1,
+                "unit": "حبة",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 88,
+        "recipe_name": "فاهيتا",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة ملونة",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 10,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "جزر",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "فطر",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 32,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "جبنة قشقوان",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "خبز سمون",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 89,
+        "recipe_name": "شاورما",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "خل",
+                "quantity": 10,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "ليمون"
+            },
+            {
+                "name": "معجون فليفلة",
+                "quantity": 15,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 32,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "مايونيز",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "مخلل خيار",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 90,
+        "recipe_name": "سجق",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "لحم ناعم",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "دجاج"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "خل",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 32,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون فليفلة",
+                "quantity": 15,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "مايونيز",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "مخلل خيار",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "خبز سمون",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 91,
+        "recipe_name": "سمك مقلي",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "سمك",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "طحين",
+                "quantity": 125,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 92,
+        "recipe_name": "سمكة حرة",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "سمك",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون فليفلة",
+                "quantity": 30,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة خضرا",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بطاطا",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 93,
+        "recipe_name": "صيادية",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "سمك",
+                "quantity": 750,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 8,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت زيتون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 94,
+        "recipe_name": "مقلوبة",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "بيتنجان",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 95,
+        "recipe_name": "معكرونة ببشاميل",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "معكرونة",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شرحات دجاج",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 30,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "حليب",
+                "quantity": 750,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "طحين",
+                "quantity": 30,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 96,
+        "recipe_name": "معكرونة بلبن",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "معكرونة",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لبن",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 10,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 97,
+        "recipe_name": "معكرونة حمرا",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "معكرونة",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 30,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 98,
+        "recipe_name": "حراق اصبعو",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "عدس أسود",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معكرونة",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رمان",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت زيتون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "دبس رمان",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "تمر هندي"
+            }
+        ]
+    },
+    {
+        "recipe_id": 99,
+        "recipe_name": "بيتزا",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "طحين",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "عجينة"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "معجون بندورة"
+            },
+            {
+                "name": "فليفلة خضرا",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "فطر",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "جبنة قشقوان",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيتون",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 100,
+        "recipe_name": "برغر",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "لحم ناعم",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "دجاج"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 32,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة خضرا",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "مخلل خيار",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "خس",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "جبنة قشقوان",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "مايونيز",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "خبز سمون",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 101,
+        "recipe_name": "برياني",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز طويل الحبة",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لبن",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 450,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "مكسرات",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 102,
+        "recipe_name": "أنغينار بزيت",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الربيع",
+        "ingredients": [
+            {
+                "name": "أنغينار",
+                "quantity": 2000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ليمون",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "حصرم"
+            }
+        ]
+    },
+    {
+        "recipe_id": 103,
+        "recipe_name": "دجاج بالكاري",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "الربيع",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "جزر",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بزاليا",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 30,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 10,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 104,
+        "recipe_name": "مسقعة",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "متوسط",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "بيتنجان",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بندورة",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "فليفلة خضرا",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 15,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 105,
+        "recipe_name": "فطر",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الشتاء",
+        "ingredients": [
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "فطر",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 106,
+        "recipe_name": "شرحات بالخل",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "شرحات لحم"
+            },
+            {
+                "name": "خل",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "جزر",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بطاطا",
+                "quantity": 600,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بروكلي",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "كوسا"
+            }
+        ]
+    },
+    {
+        "recipe_id": 107,
+        "recipe_name": "أنغينار بلحمة",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "أنغينار",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 250,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم ناعم",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بزاليا",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 108,
+        "recipe_name": "أنغينار بدجاج",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "الصيف",
+        "ingredients": [
+            {
+                "name": "أنغينار",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بطاطا",
+                "quantity": 800,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "دجاج",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 16,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 109,
+        "recipe_name": "كشكة",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "الشتاء",
+        "ingredients": [
+            {
+                "name": "كشكة",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت زيتون",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بصل",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 110,
+        "recipe_name": "سلطة تونة",
+        "servings": 4,
+        "prep_time": "قليل",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "تونة",
+                "quantity": 640,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "معكرونة",
+                "quantity": 300,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ذرة",
+                "quantity": 100,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ليمون",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 111,
+        "recipe_name": "منزلة ببطاطا",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "مبتدئ",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "بطاطا",
+                "quantity": 800,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "لحم مفروم",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "معجون بندورة",
+                "quantity": 30,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كزبرة خضرا",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "ثوم",
+                "quantity": 20,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "برغل",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شعيرية",
+                "quantity": 50,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 112,
+        "recipe_name": "شيش بالفخارة",
+        "servings": 4,
+        "prep_time": "طويل",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بطاطا",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "فطر",
+                "quantity": 150,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "حليب",
+                "quantity": 1000,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "طحين",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "زيت نباتي",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ذرة",
+                "quantity": 40,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "جبنة قشقوان",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 113,
+        "recipe_name": "فتوتشيني ألفريدو بالدجاج",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "معكرونة",
+                "quantity": 400,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "شرحات دجاج",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كريمة طبخ",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "جبنة قشقوان",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 8,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 114,
+        "recipe_name": "دجاج بالكريمة",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كريمة طبخ",
+                "quantity": 900,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "ذرة",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "اختياري",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 10,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    },
+    {
+        "recipe_id": 115,
+        "recipe_name": "دجاج بالكاجو",
+        "servings": 4,
+        "prep_time": "متوسط",
+        "difficulty_level": "متوسط",
+        "seasonality": "مدار السنة",
+        "ingredients": [
+            {
+                "name": "شرحات دجاج",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كريمة طبخ",
+                "quantity": 900,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "كاجو",
+                "quantity": 200,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "بهارات",
+                "quantity": 10,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            },
+            {
+                "name": "رز",
+                "quantity": 500,
+                "unit": "غرام",
+                "necessity_level": "إلزامي",
+                "substitution": "nan"
+            }
+        ]
+    }
+]

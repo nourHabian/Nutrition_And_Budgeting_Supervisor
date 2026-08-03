@@ -6,6 +6,7 @@ use App\Models\Ingredient;
 use App\Models\IngredientMeal;
 use App\Models\Meal;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\File;
 
 class DatasetImporterService
 {
@@ -135,4 +136,89 @@ class DatasetImporterService
         });
     }
 
+    public function exportIngredientsJson()
+    {
+        $ingredients = Ingredient::orderBy('dataset_id')->get([
+                'dataset_id',
+                'name',
+                'protein',
+                'carbohydrates',
+                'fiber',
+                'price'
+            ]);
+
+        $data = [];
+
+        foreach ($ingredients as $ingredient) {
+            $data[] = [
+                'ingredient_id' => $ingredient->dataset_id,
+                'name' => $ingredient->name,
+                'protein' => $ingredient->protein,
+                'carbohydrates' => $ingredient->carbohydrates,
+                'fiber' => $ingredient->fiber,
+                'price' => $ingredient->price,
+            ];
+        }
+
+        File::put(
+            base_path('cpp/ingredients.json'),
+            json_encode(
+                $data,
+                JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE
+            )
+        );
+    }
+
+    public function exportRecipesJson()
+    {
+        $meals = Meal::with([
+            'mealIngredients.ingredient',
+            'mealIngredients.substituteIngredient'
+        ])->orderBy('dataset_id')->get();
+
+        $recipes = [];
+        foreach ($meals as $meal) {
+            $ingredients = [];
+            foreach ($meal->mealIngredients as $mealIngredient) {
+                $ingredients[] = [
+                    'name' => $mealIngredient->ingredient->name,
+                    'quantity' => (int) $mealIngredient->quantity,
+                    'unit' => $mealIngredient->unit,
+                    'necessity_level' => $mealIngredient
+                        ->necessity_level
+                        ->value,
+                    'substitution' => $mealIngredient->substituteIngredient
+                        ? $mealIngredient->substituteIngredient->name
+                        : "nan",
+                ];
+            }
+            $recipes[] = [
+                'recipe_id' => $meal->dataset_id,
+                'recipe_name' => $meal->name,
+                'servings' => $meal->servings,
+                'prep_time' => $meal->prep_time->value,
+                'difficulty_level' => $meal->difficulty_level->value,
+                'seasonality' => $meal->seasonality->value,
+                'ingredients' => $ingredients,
+            ];
+        }
+
+        File::put(
+            base_path('cpp/recipes.json'),
+            json_encode(
+                $recipes,
+                JSON_PRETTY_PRINT |
+                JSON_UNESCAPED_UNICODE |
+                JSON_UNESCAPED_SLASHES
+            )
+        );
+    }
+
+    public function exportAll()
+    {
+        DB::transaction(function () {
+            $this->exportIngredientsJson();
+            $this->exportRecipesJson();
+        });
+    }
 }

@@ -9,15 +9,17 @@ class Plan extends Model
 {
     protected $fillable = [
         'user_id',
-        'meal_count',
-        'weekly_budget',
-        'average_prep_time',
+        'number_of_meals',
+        'budget',
+        'prep_time',
         'estimated_cost',
+        'days_per_meal',
+        'servings',
         // 'accepted',
     ];
 
     protected $casts = [
-        'average_prep_time' => PrepTime::class,
+        'prep_time' => PrepTime::class,
         // 'accepted' => 'boolean',
     ];
 
@@ -28,22 +30,16 @@ class Plan extends Model
 
     public function availableIngredients()
     {
-        return $this->hasMany(
-            PlanAvailableIngredient::class
-        );
+        return $this->hasMany(PlanAvailableIngredient::class);
     }
 
     public function meals()
     {
-        return $this->hasMany(
-            PlanMeal::class
-        );
+        return $this->hasMany(PlanMeal::class);
     }
 
     public function shoppingListItems()
     {
-        return $this->hasMany(
-            ShoppingListItem::class
-        );
+        return $this->hasMany(ShoppingListItem::class);
     }
 }

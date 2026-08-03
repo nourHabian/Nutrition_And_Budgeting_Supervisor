@@ -17,11 +17,7 @@ return new class extends Migration
             $table->foreignId('meal_id')->constrained()->cascadeOnDelete();
             $table->timestamp('last_eaten_at')->nullable();
             $table->timestamps();
-            $table->unique([
-                'user_id',
-                'meal_id'
-            ]);
-
+            $table->unique(['user_id', 'meal_id']);
         });
     }
 

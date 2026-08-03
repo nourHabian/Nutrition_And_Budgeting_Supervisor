@@ -12,7 +12,7 @@ class FamilyProfile extends Model
     protected $fillable = [
         'user_id',
         'family_members',
-        // 'weekly_budget',
+        // 'budget',
     ];
 
     public function user()
@@ -27,16 +27,13 @@ class FamilyProfile extends Model
 
     public function ingredientPreferences()
     {
-        return $this->hasMany(
-            FamilyIngredientPreference::class
-        );
+        return $this->hasMany(FamilyIngredientPreference::class);
     }
 
     public function mealPreferences()
     {
-        return $this->hasMany(
-            FamilyMealPreference::class
-        );
+        return $this->hasMany(FamilyMealPreference::class);
     }
+
 
 }

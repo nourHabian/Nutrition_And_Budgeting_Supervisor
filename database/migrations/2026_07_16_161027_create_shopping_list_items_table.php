@@ -20,10 +20,7 @@ return new class extends Migration
             $table->string('unit');
             $table->integer('estimated_price');
             $table->timestamps();
-            $table->unique([
-                'plan_id',
-                'ingredient_id'
-            ]);
+            $table->unique(['plan_id', 'ingredient_id']);
         });
     }
 

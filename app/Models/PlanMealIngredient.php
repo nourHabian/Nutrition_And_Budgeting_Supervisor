@@ -11,20 +11,15 @@ class PlanMealIngredient extends Model
         'ingredient_id',
         'quantity',
         'unit',
-        'source',
     ];
 
     public function planMeal()
     {
-        return $this->belongsTo(
-            PlanMeal::class
-        );
+        return $this->belongsTo(PlanMeal::class);
     }
 
     public function ingredient()
     {
-        return $this->belongsTo(
-            Ingredient::class
-        );
+        return $this->belongsTo(Ingredient::class);
     }
 }

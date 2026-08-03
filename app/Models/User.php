@@ -59,8 +59,6 @@ class User extends Authenticatable
 
     public function mealHistories()
     {
-        return $this->hasMany(
-            MealHistory::class
-        );
+        return $this->hasMany(MealHistory::class);
     }
 }

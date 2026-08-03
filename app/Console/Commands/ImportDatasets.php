@@ -27,6 +27,9 @@ class ImportDatasets extends Command
     public function handle(DatasetImporterService $importer)
     {
         $importer->importAll();
-        $this->info("Done.");
+        $this->info("Datasets imported successfully.");
+        
+        $importer->exportAll();
+        $this->info("JSON files exported successfully.");
     }
 }

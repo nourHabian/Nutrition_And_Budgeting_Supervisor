@@ -18,15 +18,11 @@ class MealHistory extends Model
 
     public function user()
     {
-        return $this->belongsTo(
-            User::class
-        );
+        return $this->belongsTo(User::class);
     }
 
     public function meal()
     {
-        return $this->belongsTo(
-            Meal::class
-        );
+        return $this->belongsTo(Meal::class);
     }
 }

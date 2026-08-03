@@ -8,7 +8,8 @@ class PlanAvailableIngredient extends Model
 {
     protected $fillable = [
         'plan_id',
-        'ingredient_id'
+        'ingredient_id',
+        'quantity',
     ];
 
 

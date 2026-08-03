@@ -18,7 +18,6 @@ return new class extends Migration
             $table->foreignId('ingredient_id')->constrained()->cascadeOnDelete();
             $table->integer('quantity');
             $table->string('unit');
-            $table->string('source')->default('original'); // اذا استخدمنا المكون الاساسي ولا البديل تبعو
             $table->timestamps();
             $table->unique(['plan_meal_id', 'ingredient_id']);
         });

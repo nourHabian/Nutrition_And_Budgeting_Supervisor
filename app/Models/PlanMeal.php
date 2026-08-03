@@ -28,9 +28,7 @@ class PlanMeal extends Model
 
     public function ingredients()
     {
-        return $this->hasMany(
-            PlanMealIngredient::class
-        );
+        return $this->hasMany(PlanMealIngredient::class);
     }
 
 }

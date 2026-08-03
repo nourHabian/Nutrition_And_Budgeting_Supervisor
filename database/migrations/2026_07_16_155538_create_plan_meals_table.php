@@ -19,10 +19,7 @@ return new class extends Migration
             $table->unsignedBigInteger('estimated_cost');
             $table->unsignedTinyInteger('day'); // ترتيبها بالاسبوع
             $table->timestamps();
-            $table->unique([
-                'plan_id',
-                'day'
-            ]);
+            $table->unique(['plan_id', 'day']);
         });
     }
 

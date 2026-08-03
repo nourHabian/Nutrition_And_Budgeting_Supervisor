@@ -15,6 +15,13 @@ class Ingredient extends Model
         'price'
     ];
 
+    protected $casts = [
+        'price' => 'float',
+        'protein' => 'float',
+        'carbohydrates' => 'float',
+        'fiber' => 'float',
+    ];
+
     public function meals()
     {
         return $this->belongsToMany(Meal::class)
