@@ -1,0 +1,116 @@
+{
+    "profile": {
+        "allergies": [
+            {
+                "name": "لبن"
+            }
+        ],
+        "disliked_ingredients": [
+            {
+                "name": "أنغينار"
+            }
+        ],
+        "liked_meals": [
+            {
+                "meal_name": "يبرق"
+            },
+            {
+                "meal_name": "برياني"
+            },
+            {
+                "meal_name": "شاورما"
+            },
+            {
+                "meal_name": "لحمة بالصينية"
+            }
+        ],
+        "disliked_meals": [
+            {
+                "meal_name": "فاصوليا بزيت"
+            },
+            {
+                "meal_name": "فاصوليا كلاوي"
+            },
+            {
+                "meal_name": "فول أخضر بالزيت (مقلى)"
+            },
+            {
+                "meal_name": "تسقية بالبدوة"
+            },
+            {
+                "meal_name": "فلافل"
+            },
+            {
+                "meal_name": "معكرونة بجبنة وبقدونس"
+            },
+            {
+                "meal_name": "كبة بالصينية"
+            },
+            {
+                "meal_name": "ستي زبقي"
+            },
+            {
+                "meal_name": "بيتزا"
+            },
+            {
+                "meal_name": "منزلة ببطاطا"
+            }
+        ],
+        "recent_meals": [
+            {
+                "meal_name": "عجة",
+                "weeks_ago": 1
+            },
+            {
+                "meal_name": "سندويش بطاطا",
+                "weeks_ago": 1
+            },
+            {
+                "meal_name": "لوبية",
+                "weeks_ago": 1
+            },
+            {
+                "meal_name": "تسقية بالبدوة",
+                "weeks_ago": 1
+            }
+        ]
+    },
+    "inventory": {
+        "available_ingredients": [],
+        "always_available_ingredients": [
+            {
+                "name": "دبس رمان"
+            },
+            {
+                "name": "معجون بندورة"
+            },
+            {
+                "name": "سمنة"
+            },
+            {
+                "name": "زيت نباتي"
+            },
+            {
+                "name": "زيت زيتون"
+            },
+            {
+                "name": "طحين"
+            },
+            {
+                "name": "طحينة"
+            },
+            {
+                "name": "بهارات"
+            }
+        ]
+    },
+    "constraints": {
+        "prep_time": "متوسط",
+        "season": "الصيف",
+        "servings": 4,
+        "number_of_meals": 1,
+        "budget": 50000,
+        "plans_num": 10
+    },
+    "required_meals": []
+}

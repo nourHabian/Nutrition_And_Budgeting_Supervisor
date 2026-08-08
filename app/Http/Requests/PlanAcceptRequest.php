@@ -29,7 +29,7 @@ class PlanAcceptRequest extends FormRequest
             'number_of_meals' => ['required', 'integer', 'between:1,7'],
             'days_per_meal' => ['required', 'integer', Rule::in([1, 2])],
             'prep_time' => ['required', Rule::enum(PrepTime::class)],
-            'available_ingredients' => ['required', 'array'],
+            'available_ingredients' => ['sometimes', 'array'],
             'available_ingredients.*.name' => ['required', 'string', 'exists:ingredients,name'],
             'available_ingredients.*.quantity' => ['required', 'integer', 'min:1'],
             'total_cost' => ['required','integer','min:0'],
