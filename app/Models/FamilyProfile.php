@@ -34,6 +34,4 @@ class FamilyProfile extends Model
     {
         return $this->hasMany(FamilyMealPreference::class);
     }
-
-
 }

@@ -32,7 +32,12 @@ class AuthController extends Controller
         /** @var \App\Models\User $user */
         $user = Auth::user();
         $token = $user->createToken('auth_token')->plainTextToken;
-        return response()->json(['message' => 'تم تسجيل الدخول بنجاح', 'user' => $user, 'token' => $token], 200);
+        return response()->json([
+            'message' => 'تم تسجيل الدخول بنجاح',
+            'user' => $user,
+            'family_profile_completed' => $user->familyProfile !== null,
+            'token' => $token,
+        ], 200);
     }
 
     public function logout()
