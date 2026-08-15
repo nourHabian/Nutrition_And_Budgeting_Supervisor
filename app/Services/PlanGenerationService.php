@@ -213,7 +213,6 @@ class PlanGenerationService
             );
         }
 
-        // تجهيز required_meals
         $requiredMeals = collect($data['required_meals'] ?? [])
             ->map(function ($meal) {
                 return [

@@ -105,11 +105,6 @@ class PlanAcceptService
 
         $requiredIngredients = [];
 
-        /*
-        |------------------------------------------------------------
-        | 1) جمع الكميات المطلوبة من جميع وجبات الخطة
-        |------------------------------------------------------------
-        */
         foreach ($plan->meals as $planMeal) {
             foreach ($planMeal->ingredients as $ingredient) {
                 $id = $ingredient->ingredient_id;
@@ -123,11 +118,6 @@ class PlanAcceptService
             }
         }
 
-        /*
-        |------------------------------------------------------------
-        | 2) طرح المكونات التي يملكها المستخدم لهذه الخطة
-        |------------------------------------------------------------
-        */
         foreach ($plan->availableIngredients as $available) {
             if (!isset($requiredIngredients[$available->ingredient_id])) {
                 continue;
@@ -136,22 +126,12 @@ class PlanAcceptService
                 -= $available->quantity;
         }
 
-        /*
-        |------------------------------------------------------------
-        | 3) المكونات المتوفرة دائماً
-        |------------------------------------------------------------
-        */
         $alwaysAvailable = $plan->user
             ->familyProfile
             ->familyIngredients
             ->pluck('ingredient_id')
             ->toArray();
 
-        /*
-        |------------------------------------------------------------
-        | 4) إنشاء عناصر قائمة التسوق
-        |------------------------------------------------------------
-        */
         foreach ($requiredIngredients as $ingredientId => $data) {
             if (in_array($ingredientId, $alwaysAvailable)) {
                 continue;
